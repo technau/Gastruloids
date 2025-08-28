@@ -1,5 +1,5 @@
 # Gastruloids
-Scripts supporting data analysis in Narayanaswami et al. 2025
+Scripts supporting data analysis in Narayanaswamy et al. 2025
 
 Generating_reference.R --> Script used to generate a reference atlas for singleR cluster annotation of query datasets 
 
